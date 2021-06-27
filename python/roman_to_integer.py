@@ -2,7 +2,7 @@ class Solution:
 
     """ Given a roman numeral, convert it to an integer. """
 
-    def romanToInt(self, s: str) -> int:
+    def romanToInt(self, s):
         iteration = 0
         arab = 0
 
